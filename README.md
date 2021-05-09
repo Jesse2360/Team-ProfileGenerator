@@ -28,4 +28,4 @@ now you can run  *node index.js*  to be prompted with the questions.
  ･Node.js <br />
 
  # Link to Tutorial
- [Video Tutorial]()
+ [Video Tutorial](https://youtu.be/iDMJvFGtUQE)
