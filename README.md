@@ -1,5 +1,6 @@
 # Team-ProfileGenerator
-team profile generator week 10 hw
+Team Profile Generator Week 10 Hw
+Taking the users input and creating cards with the information provided.
 <br />
 
 # User Story
@@ -9,12 +10,12 @@ SO THAT I have quick access to their emails and GitHub profiles
 <br />
 
 # Installation
-You would need to run *npm install* in your command line
+You would need to run  *npm install*  in your command line
 <br />
 
 # Usage
-After running *npm install* and installing the modules needed,
-now you can run *node index.js* to be prompted with the questions.
+After running  *npm install*  and installing the modules needed,<br />
+now you can run  *node index.js*  to be prompted with the questions.
 <br />
 
 # Built with: <br />
@@ -22,4 +23,9 @@ now you can run *node index.js* to be prompted with the questions.
  ･GitHub
  <br />
 
+ # Created Using: <br />
+ ･JavaScript <br />
+ ･Node.js <br />
+
  # Link to Tutorial
+ [Video Tutorial]()
